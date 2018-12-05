@@ -23,7 +23,7 @@
     </a>
     <a href="javascript:;" class="guide_item"  :class="{on: $route.path==='/order'}" @click="goTo('/order')">
       <span class="item_icon">
-        <i class="iconfont icon-gouwuchekong"></i>
+        <i class="iconfont icon-gouwuchekong1"></i>
       </span>
       <span>购物车</span>
     </a>
