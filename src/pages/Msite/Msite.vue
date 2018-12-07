@@ -226,12 +226,16 @@
             <a class="vip-tp1" href="/">
               <p>福利社</p>
               <span>今日特价</span>
-              <img  src="http://yanxuan.nosdn.127.net/7dd153f648f9ffb70384b5868b132ed1.png?imageView&thumbnail=200x200&quality=75" alt="">
+              <img
+                src="http://yanxuan.nosdn.127.net/7dd153f648f9ffb70384b5868b132ed1.png?imageView&thumbnail=200x200&quality=75"
+                alt="">
             </a>
             <a class="vip-tp2" href="/">
               <p>新人拼团</p>
               <span>一元起包邮</span>
-              <img  src="http://yanxuan.nosdn.127.net/c95a4d1daa62d7a9004208752a1a2098.png?imageView&thumbnail=200x200&quality=75" alt="">
+              <img
+                src="http://yanxuan.nosdn.127.net/c95a4d1daa62d7a9004208752a1a2098.png?imageView&thumbnail=200x200&quality=75"
+                alt="">
             </a>
           </div>
         </div>
@@ -241,12 +245,264 @@
           <div class="txt">
             <span>品牌制造商直供</span>
           </div>
-            <a href="/" class="more">
-              <span>更多</span>
-              <i> > </i>
-            </a>
+          <a href="/" class="more">
+            <span>更多</span>
+            <i class="iconfont icon-you"></i>
+          </a>
         </div>
-        <ul></ul>
+        <ul class="list">
+          <li class="item">
+            <a href="/">
+              <div class="cnt">
+                <h4 class="title">海外制造商</h4>
+                <div>
+                  <span class="price">9.9元起</span>
+                  <i class="sx">上新</i>
+                </div>
+              </div>
+            </a>
+          </li>
+          <li class="item tb1">
+            <a href="/">
+              <div class="cnt">
+                <h4 class="title">CK制造商</h4>
+                <div>
+                  <span class="price">25元起</span>
+                </div>
+              </div>
+            </a>
+          </li>
+          <li class="item tb2">
+            <a href="/">
+              <div class="cnt">
+                <h4 class="title">新秀丽制造商</h4>
+                <div>
+                  <span class="price">34.9元起</span>
+                </div>
+              </div>
+            </a>
+          </li>
+          <li class="item tb3">
+            <a href="/">
+              <div class="cnt">
+                <h4 class="title">MUJI制造商</h4>
+                <div>
+                  <span class="price">35元起</span>
+                </div>
+              </div>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="sub">
+        <div class="title">
+          <div class="left">
+            <span>类目热销榜</span>
+          </div>
+        </div>
+        <div class="content">
+          <div>
+            <a href="/" class="item-big">
+              <div>
+                <div class="name">
+                  <span class="txt">服装榜</span>
+                </div>
+              </div>
+              <div class="imgwrap">
+                <img
+                  src="http://yanxuan.nosdn.127.net/e7b3e95a03560f65fee9da6f8dd8ebde.png?imageView&quality=65&thumbnail=200x200"
+                  alt="">
+              </div>
+            </a>
+            <a href="/" class="item-big item1">
+              <div>
+                <div class="name">
+                  <span class="txt">居家榜</span>
+                </div>
+              </div>
+              <div class="imgwrap">
+                <img
+                  src="http://yanxuan.nosdn.127.net/9f3c89c8b98fb06968c67edb12a195cf.png?imageView&quality=65&thumbnail=200x200"
+                  alt="">
+              </div>
+            </a>
+          </div>
+          <div>
+            <a class="item" href="/">
+              <div class="name">鞋包配饰榜</div>
+              <div class="imgwrap">
+                <div class="imgs">
+                  <img
+                    src="http://yanxuan.nosdn.127.net/a7642dcbab7d4b3ec715c18c42d43373.png?imageView&quality=65&thumbnail=200x200"
+                    alt="">
+                </div>
+              </div>
+            </a>
+            <a class="item" href="/">
+              <div class="name">电器榜</div>
+              <div class="imgwrap">
+                <div class="imgs">
+                  <img
+                    src="http://yanxuan.nosdn.127.net/ccdbdc82bdc8929723e4941a93f85550.png?imageView&quality=65&thumbnail=200x200"
+                    alt="">
+                </div>
+              </div>
+            </a>
+            <a class="item" href="/">
+              <div class="name">饮食榜</div>
+              <div class="imgwrap">
+                <div class="imgs">
+                  <img
+                    src="https://yanxuan.nosdn.127.net/97719f5e6bbca639cdab6b50591c0689.png?imageView&quality=65&thumbnail=200x200"
+                    alt="">
+                </div>
+              </div>
+            </a>
+            <a class="item" href="/">
+              <div class="name">洗护榜</div>
+              <div class="imgwrap">
+                <div class="imgs">
+                  <img
+                    src="https://yanxuan.nosdn.127.net/a07c82f8b26a4ed42b1d697eb9ea418f.png?imageView&quality=65&thumbnail=200x200"
+                    alt="">
+                </div>
+              </div>
+            </a>
+            <a class="item" href="/">
+              <div class="name">餐厨榜</div>
+              <div class="imgwrap">
+                <div class="imgs">
+                  <img
+                    src="https://yanxuan.nosdn.127.net/02da8bce2fa3a182d398f6a09e8ac2f5.png?imageView&quality=65&thumbnail=200x200"
+                    alt="">
+                </div>
+              </div>
+            </a>
+            <a class="item" href="/">
+              <div class="name">婴童榜</div>
+              <div class="imgwrap">
+                <div class="imgs">
+                  <img
+                    src="https://yanxuan.nosdn.127.net/ebffc08b434eaab87392fc401c58fcc5.png?imageView&quality=65&thumbnail=200x200"
+                    alt="">
+                </div>
+              </div>
+            </a>
+            <a class="item" href="/">
+              <div class="name">文体榜</div>
+              <div class="imgwrap">
+                <div class="imgs">
+                  <img
+                    src="https://yanxuan.nosdn.127.net/55425f24345d01992d61a1646325ac94.png?imageView&quality=65&thumbnail=200x200"
+                    alt="">
+                </div>
+              </div>
+            </a>
+            <a class="item" href="/">
+              <div class="name">特色区榜</div>
+              <div class="imgwrap">
+                <div class="imgs">
+                  <img
+                    src="https://yanxuan.nosdn.127.net/362a8249b48d91d99604680b5471b507.png?imageView&quality=65&thumbnail=200x200"
+                    alt="">
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="popularity">
+        <div class="top">
+          <div class="txt">
+            <span>人气推荐</span>
+          </div>
+          <a href="/" class="more">
+            <span>更多</span>
+            <i class="iconfont icon-you"></i>
+          </a>
+        </div>
+        <a href="/" class="spitem">
+          <div class="wraper">
+            <div class="imgs">
+              <img src="https://yanxuan.nosdn.127.net/06e5818658707bc182acabe92cae3d34.png?imageView&quality=65&thumbnail=280x280" alt="">
+            </div>
+          </div>
+          <div class="text">
+            <div class="tagwraper">
+              <span>双十二同价</span>
+            </div>
+            <div class="name">30包 谷风一木软抽面巾纸囤货装</div>
+            <div class="desc">环保取材，安全天然更亲肤</div>
+            <div class="money">
+              <span>￥</span>
+              <span>69.4</span>
+            </div>
+          </div>
+        </a>
+        <div>
+          <ul class="list">
+            <li class="item">
+              <a href="/" class="good">
+                <div class="hd">
+                  <div class="imgs">
+                    <img src="https://yanxuan.nosdn.127.net/fb53b989d34b32366f138b5e563ccd0a.png?imageView&quality=65&thumbnail=330x330" alt="">
+                  </div>
+                </div>
+              </a>
+              <div class="name">
+                <span>升级款95%白鹅绒秋冬加厚...</span>
+                <span class="moeny">￥ 1028</span>
+              </div>
+              <div class="touch">
+                <span class="jia">心动价</span>
+              </div>
+            </li>
+            <li class="item">
+              <a href="/" class="good">
+                <div class="hd">
+                  <div class="imgs">
+                    <img src="https://yanxuan.nosdn.127.net/1e5203ccf607c0136f06af2b09c15e34.png?imageView&quality=65&thumbnail=330x330" alt="">
+                  </div>
+                </div>
+              </a>
+              <div class="name">
+                <span>便携手持挂烫机</span>
+                <span class="moeny">￥ 95</span>
+              </div>
+              <div class="touch">
+                <span class="jia">三石福利价</span>
+              </div>
+            </li>
+            <li class="item">
+              <a href="/" class="good">
+                <div class="hd">
+                  <div class="imgs">
+                    <img src="https://yanxuan.nosdn.127.net/64897b33fc2c1f2582921ca22a64149c.png?imageView&quality=65&thumbnail=330x330" alt="">
+                  </div>
+                </div>
+              </a>
+              <div class="name">
+                <span>中筒皮毛一体雪地靴</span>
+                <span class="moeny">￥ 229</span>
+              </div>
+              <div class="touch">
+                <span class="jia">心动价</span>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="time">
+        <div class="top">
+          <div class="txt">
+            <span>限时购</span>
+                11:11:11
+          </div>
+          <a href="/" class="more">
+            <span>更多</span>
+            <i class="iconfont icon-you"></i>
+          </a>
+        </div>
       </div>
     </div>
   </div>
@@ -516,8 +772,8 @@
             text-align: center;
             background-color #F9E9CF
             img
-             width: 50%;
-             height: auto;
+              width: 50%;
+              height: auto;
 
         .vip2-2
           width: 60%;
@@ -536,7 +792,7 @@
             img
               width: 60%;
               height: auto;
-              margin:-24px 0 0 80px
+              margin: -24px 0 0 80px
           .vip-tp2
             display: block
             width: 100%
@@ -552,20 +808,296 @@
             img
               width: 60%;
               height: auto;
-              margin:-24px 0 0 80px
-
+              margin: -24px 0 0 80px
 
     .vender
       background-color: #fff;
       margin-top 6px
       height 300px
+      margin-bottom: 45px;
       .top
         width: 100%;
         height: 33px;
         line-height: 33px;
         overflow: hidden;
         display flex
-        justify-content:space-between
+        justify-content: space-between
+        .txt
+          font-size 15px
+          font-family: PingFangSC-Regular;
+          margin: 6px 0 0 10px;
+        .more
+          display: block;
+          font-size: 15px;
+          color: #333;
+          margin: 6px 10px 0 0;
+      .list
+        position: relative;
+        overflow: hidden;
+        background: #fff;
+        margin-bottom: 10px
+        padding: 10px
+        .item
+          background-image: url(http://yanxuan.nosdn.127.net/802ff06dd3ef161db046eeb8db6cb4be.jpg?imageView&thumbnail=343y260&enlarge=1);
+          background-size: 100% 100%;
+          display: inline-block;
+          position: relative;
+          margin: 0 1px 5px 0;
+          width: 174px
+          height: 133px
+          overflow: hidden;
+          background-color: #f4f4f4;
+          border-radius: 3px
+          .cnt
+            position: absolute;
+            left: 0;
+            top: 0;
+            padding-top: 14px;
+            width: 100%;
+            z-index: 4;
+            text-align: center;
+            .title
+              height 20px
+              text-overflow: ellipsis;
+              white-space: nowrap;
+              overflow: hidden;
+              color: #333;
+              font-family: PingFangSC-Medium;
+              font-size: 15px;
+              line-height: 20px;
+              margin-bottom: 5px;
+            .price
+              color: #7F7F7F;
+              font-size: 12px
+            .sx
+              display: inline-block;
+              width: 35px;
+              height: 15px;
+              color: #fff;
+              line-height: 15px;
+              text-align: center;
+              background: #CBB693;
+              border-radius: 2px;
+              margin-left: 10px;
+              font-size 13px
+
+        .tb1
+          background-image url("http://yanxuan.nosdn.127.net/c1e97be1b9730360c9c228b6a6448bca.png?imageView&thumbnail=343y260&enlarge=1")
+        .tb2
+          background-image url("http://yanxuan.nosdn.127.net/e550a44d2a7a68ed38e6cfd380e514aa.png?imageView&thumbnail=343y260&enlarge=1")
+        .tb3
+          background-image url("http://yanxuan.nosdn.127.net/053ecfefd033a9acd2cb95483e14fcb6.jpg?imageView&thumbnail=343y260&enlarge=1")
+
+
+    .sub
+      background-color: #fff;
+      margin-bottom: 13px;
+      margin-top 6px
+      height 358px
+      overflow: hidden;
+      .title
+        width: 100%;
+        height: 30px
+        line-height: 30px
+        padding: 10px
+        background: #fff;
+        .left
+          float: left;
+          font-size: 15px;
+          font-family: PingFangSC-Regular;
+      .content
+        padding: 0 0 10px 5px;
+        overflow: hidden;
+        .item-big
+          background: #F9F3E4;
+          width: 175px
+          height: 100px
+          float: left;
+          border-radius: 2px
+          margin: 0 5px 5px 0;
+          position relative
+          .name
+            padding-left: 15px;
+            color: #333;
+            font-family: PingFangSC-Medium;
+            font-size: 15px;
+            margin-top: 22px;
+            position relative
+            .txt
+              &::before
+                content: '';
+                position: absolute;
+                left: 15px;
+                bottom: -10px;
+                width: 30px;
+                height: 2px;
+                background: #333;
+
+          .imgwrap
+            position absolute
+            right: 0;
+            top: 0;
+            width: 107px;
+            height: 100px;
+            img
+              width: 100%;
+              height: 100%;
+        .item1
+          background #EBEFF6
+          float: right;
+        .item
+          display: block;
+          width: 86px;
+          height: 95px;
+          background: #F5F5F5;
+          border-radius: 3px;
+          float: left;
+          margin: 0 6px 4px 0;
+          .name
+            margin-top: 10px;
+            text-align: center;
+            font-size: 13px;
+            color: #333;
+            font-family: PingFangSC-Medium;
+          .imgwrap
+            width: 70px;
+            height: 60px;
+            margin: 5px 0 0 10px
+            .imgs
+              width: 100%
+              img
+                width: 100%
+                height: 100%
+    .popularity
+      background-color: #fff;
+      margin-top 6px
+      height 380px
+      margin-bottom: 12px;
+      overflow hidden
+      .top
+        width: 100%;
+        height: 33px;
+        line-height: 33px;
+        overflow: hidden;
+        display flex
+        justify-content: space-between
+        .txt
+          font-size 15px
+          font-family: PingFangSC-Regular;
+          margin: 6px 0 0 10px;
+        .more
+          display: block;
+          font-size: 15px;
+          color: #333;
+          margin: 6px 10px 0 0;
+      .spitem
+        color: #333;
+        width: 93%
+        height: 150px
+        display: flex;
+        flex-flow: row nowrap;
+        align-items: center;
+        background: #FEF0DF;
+        border-radius: 3px
+        margin 18px 0 0 10px;
+        .wraper
+          width: 40%
+          height: 100%
+          background: url(//yanxuan.nosdn.127.net/3235bc71e70f134b5499316fc74337d4.png);
+          background-size: 100% 100%;
+          margin-right: 5px;
+          .imgs
+            width: 100%
+            height 100%
+            img
+              width: 100%
+              height 100%
+        .text
+          margin 0 0 13px 10px
+          .tagwraper
+            width: 86px;
+            padding-bottom 13px
+            span
+              color: #B4282D;
+              background: rgba(255,255,255,.9);
+              border: 1px solid #B4282D;
+              border-radius: 2px
+              font-size 8px
+
+          .name
+            font-family: PingFangSC-Regular;
+            font-size: 15px
+            width: 185px
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            padding-bottom 10px
+          .desc
+            font-size: 12px
+            color: #7F7F7F;
+            width: 145px
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            padding-bottom 10px
+
+          .money
+            font-size: 13px
+            color: #b4282d;
+      .list
+        display flex
+        flex-wrap: wrap;
+        height 178px
+        .item
+          float: left;
+          position: relative;
+          padding: 10px 5px 0 5px
+          overflow: hidden;
+          background-color: #fff;
+          margin-left: 10px
+          width: 104px
+          height 167px
+          .good
+            display block
+            width: 100%
+            height: 100%
+            .imgs
+              width 100%
+              height 50%
+              img
+                width: 100%
+                height: 100%
+          .name
+            height: 28px;
+            margin-top: -60px;
+            font-size: 12px;
+            color: #333;
+            text-align: left;
+            font-family: PingFangSC-Regular;
+            .moeny
+              color:darkred
+          .touch
+            width: 100%;
+            height 20px
+            .jia
+              color: #B4282D;
+              background: rgba(255,255,255,.9);
+              border: 1px solid #B4282D;
+              font-size: 12px
+              border-radius: 2px
+    .time
+      background-color: #fff;
+      margin-top 6px
+      height 360px
+      margin-bottom: 50px;
+      overflow hidden
+      .top
+        width: 100%;
+        height: 33px;
+        line-height: 33px;
+        overflow: hidden;
+        display flex
+        justify-content: space-between
         .txt
           font-size 15px
           font-family: PingFangSC-Regular;

@@ -58,7 +58,7 @@
     right 0
     bottom 0
     background-color #fff
-    width 100%
+    width 101%
     height 50px
     display flex
     .guide_item
