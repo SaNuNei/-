@@ -12,7 +12,6 @@
         </div>
         <button class="btn">登录</button>
       </section>
-      <!--导航栏-->
       <nav class="wrap">
         <ul class="list">
           <li class="tap">
@@ -92,10 +91,10 @@
         <ul class="navigate">
           <li class="single">
             <div>
-            <a href="/">
-              <span class="imgs"><img src="https://yanxuan.nosdn.127.net/98b6a6fc32f1fea861934816729e2cf5.png" alt=""></span>
-              <p>居家</p>
-            </a>
+              <a href="/">
+                <span class="imgs"><img src="https://yanxuan.nosdn.127.net/98b6a6fc32f1fea861934816729e2cf5.png" alt=""></span>
+                <p>居家</p>
+              </a>
             </div>
           </li>
           <li class="single">
@@ -133,7 +132,7 @@
           <li class="single">
             <div>
               <a href="/">
-                <span class="imgs"><img src="https://yanxuan.nosdn.127.net/2fde77529e90a26427d1c02faa3bfbf6.png" alt=""></span>
+                <span class="imgs"><img src="http://yanxuan.nosdn.127.net/c64726637aebb2767c881bf7b3566bbf.png" alt=""></span>
                 <p>婴童</p>
               </a>
             </div>
@@ -147,14 +146,107 @@
             </div>
           </li>
           <li class="single">
-          <div>
+            <div>
+              <a href="/">
+                <span class="imgs"><img src="https://yanxuan.nosdn.127.net/fc3e359da08577228354da61ea912c99.png" alt=""></span>
+                <p>餐厨</p>
+              </a>
+            </div>
+          </li>
+          <li class="single">
+            <div>
+              <a href="/">
+                <span class="imgs"><img src="http://yanxuan.nosdn.127.net/db5e2ce8c66f7db3f4282ecb24a64236.png"></span>
+                <p>秒杀</p>
+              </a>
+            </div>
+          </li>
+          <li class="single">
+            <div>
+              <a href="/">
+                <span class="imgs"><img src="http://yanxuan.nosdn.127.net/a9d624f91ae8798a502eb5ac15757219.png" alt=""></span>
+                <p>饮食</p>
+              </a>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="activity">
+        <div>
+          <a href="https://act.you.163.com/act/pub/35lg3M4T9f.html">
+            <img src="https://yanxuan.nosdn.127.net/15435902145614507.gif" alt="">
+          </a>
+        </div>
+        <div class="hilarity">
+          <div class="hilarity1">
             <a href="/">
-              <span class="imgs"><img src="https://yanxuan.nosdn.127.net/fc3e359da08577228354da61ea912c99.png" alt=""></span>
-              <p>餐厨</p>
+              <img src="https://yanxuan.nosdn.127.net/15435902383484509.png" alt="">
             </a>
           </div>
-        </li>
-        </ul>
+          <div class="hilarity2">
+            <a href="/">
+              <img src="https://yanxuan.nosdn.127.net/15435902616394510.png" alt="">
+            </a>
+            <a href="/">
+              <img src="https://yanxuan.nosdn.127.net/15439064549673720.png" alt="">
+            </a>
+          </div>
+        </div>
+        <div class="hilarity_2">
+          <div class="hilarity1_2">
+            <a href="/">
+              <img src="https://yanxuan.nosdn.127.net/15438955793172733.png" alt="">
+            </a>
+          </div>
+          <div class="hilarity2_2">
+            <a href="/">
+              <img src="https://yanxuan.nosdn.127.net/15435903918604513.png" alt="">
+            </a>
+          </div>
+        </div>
+        <div class="under">
+          <img src="https://yanxuan.nosdn.127.net/15435901919894506.png?imageView&crop=0_1389_750_15" alt="">
+        </div>
+        <div class="under1">
+          <img src="https://yanxuan.nosdn.127.net/15435901919894506.png?imageView&crop=0_1389_750_15" alt="">
+        </div>
+      </div>
+      <div class="vip">
+        <div class="vip-1">
+          <span>- 新人专享礼 -</span>
+        </div>
+        <div class="vip-2">
+          <div class="vip1-2">
+            <a href="/">
+              <p>新人福利礼包</p>
+              <img class="tp" src="//yanxuan.nosdn.127.net/d074d02fb86bff9bfbf4fa3010d1e1e6.png" alt="">
+            </a>
+          </div>
+          <div class="vip2-2">
+            <a class="vip-tp1" href="/">
+              <p>福利社</p>
+              <span>今日特价</span>
+              <img  src="http://yanxuan.nosdn.127.net/7dd153f648f9ffb70384b5868b132ed1.png?imageView&thumbnail=200x200&quality=75" alt="">
+            </a>
+            <a class="vip-tp2" href="/">
+              <p>新人拼团</p>
+              <span>一元起包邮</span>
+              <img  src="http://yanxuan.nosdn.127.net/c95a4d1daa62d7a9004208752a1a2098.png?imageView&thumbnail=200x200&quality=75" alt="">
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="vender">
+        <div class="top">
+          <div class="txt">
+            <span>品牌制造商直供</span>
+          </div>
+            <a href="/" class="more">
+              <span>更多</span>
+              <i> > </i>
+            </a>
+        </div>
+        <ul></ul>
       </div>
     </div>
   </div>
@@ -183,7 +275,7 @@
 <style lang="stylus" rel="stylesheet/stylus">
   .head
     height 44px
-    background-color: #fff;
+    background-color: #f4f4f4;
     border-bottom: 1px solid #d9d9d9;
     .search
       position relative
@@ -285,6 +377,8 @@
 
     .welfare
       background: #FFEDDB;
+      overflow hidden
+      width 100%
       .grow
         width: 100%;
         height: 40px
@@ -311,18 +405,19 @@
               padding 20px
 
     .spdh
-      width: 100%;
-      height: 800px
+      background-image: url(http://yanxuan.nosdn.127.net/56cd3b1e32f4d2edd03915efcef04de0.png);
+      background-size: 100% 100%;
+      overflow hidden
+      width 100%
       .navigate
         width 100%
         height 170px
-        background-color #FFEDDB;k
+        margin-left 16px
         .single
           width: 80px
           height: 80px
           float: left
-          margin: 6px;
-          padding-left: 17px;
+          margin-left: -6px;
           img
             width: 50px
             height: 50px
@@ -330,4 +425,154 @@
             font-size 13px
             margin-left 12px
 
+    .activity
+      width: 100%;
+      background: url(https://yanxuan.nosdn.127.net/15435901919894506.png?imageView&crop=0_0_750_496);
+      background-size: 100% 100%;
+      a
+        img
+          width: 100%
+          height: 100%
+    .hilarity
+      width: 100%
+      height: 200px
+      background-size: 100% 100%;
+      background: url("https://yanxuan.nosdn.127.net/15435901919894506.png?imageView&crop=0_496_750_588")
+      display flex
+      justify-content: space-around
+      .hilarity1
+        width: 50%;
+        height: 100%;
+        img
+          width: 100%;
+          height: auto;
+      .hilarity2
+        width: 50%;
+        height: 100%;
+        img
+          width: 100%;
+          height: auto
+    .hilarity_2
+      width: 100%;
+      height: 100px;
+      background: url(https://yanxuan.nosdn.127.net/15435901919894506.png?imageView&crop=0_1084_750_305);
+      background-size: 100% 100%;
+      display flex
+      justify-content: space-around
+      .hilarity1_2
+        width: 50%;
+        height: 100%;
+        img
+          width: 100%
+          height: auto
+      .hilarity2_2
+        width: 50%;
+        height: 100%;
+      img
+        width: 100%
+        height: auto
+    .under
+      width: 100%
+      margin-top: -7px;
+      img
+        width: 100%
+        height: 8px
+    .under1
+      width: 100%
+      margin-top: -7px;
+      img
+        width: 100%
+        height: 8px
+    .vip
+      background-color: #fff;
+      margin-top 6px
+      height 300px
+      .vip-1
+        padding: 13px 0 13px 0
+        background: #fff;
+        height: 13px;
+        width: 100%;
+        line-height: 13px;
+        text-align: center;
+        font-size: 15px;
+
+      .vip-2
+        width: 100%
+        height: 200px
+        background-size: 100% 100%;
+        background: white
+        display flex
+        justify-content: space-around
+        .vip1-2
+          width: 50%;
+          height: 100%;
+          padding 10px 0 10px 10px
+          a
+
+            width: 100%
+            height: 204px
+            display: table-cell; //主要是这个属性
+            vertical-align: middle;
+            text-align: center;
+            background-color #F9E9CF
+            img
+             width: 50%;
+             height: auto;
+
+        .vip2-2
+          width: 60%;
+          height: 100%;
+          padding 10px 10px 10px 5px
+          .vip-tp1
+            display: block
+            width: 100%
+            height: 100px
+            background: #FBE2D3
+            p
+              font-size 12
+              color #000
+            span
+              font-size 10px
+            img
+              width: 60%;
+              height: auto;
+              margin:-24px 0 0 80px
+          .vip-tp2
+            display: block
+            width: 100%
+            height: 100px
+            background: #FFECC2
+            margin-top 5px
+            p
+              font-size 12
+              color #000
+            span
+              font-size 10px
+              background: #CBB693
+            img
+              width: 60%;
+              height: auto;
+              margin:-24px 0 0 80px
+
+
+    .vender
+      background-color: #fff;
+      margin-top 6px
+      height 300px
+      .top
+        width: 100%;
+        height: 33px;
+        line-height: 33px;
+        overflow: hidden;
+        display flex
+        justify-content:space-between
+        .txt
+          font-size 15px
+          font-family: PingFangSC-Regular;
+          margin: 6px 0 0 10px;
+        .more
+          display: block;
+          font-size: 15px;
+          color: #333;
+          margin: 6px 10px 0 0;
 </style>
